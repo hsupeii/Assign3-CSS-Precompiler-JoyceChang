@@ -54,7 +54,7 @@ h6 {
     @include h-style;
 }
 h1 {
-    @include h-style($fontsize: 15px);
+    @include h-style($fontsize: 37px);
 }
 h2 {
     @include h-style($fontsize: 31px);
